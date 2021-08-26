@@ -1,0 +1,6 @@
+reports/**
+
+data/**
+**/**.h5
+**/*.pyc
+**/*checkpoints*
